@@ -3,6 +3,8 @@
 ## Current Develop Branch
 
 ## 7.7.3 Fri Jan 24 2020
+- [#7894](https://github.com/MetaMask/metamask-extension/pull/7894): Update GABA dependency version
+- [#7896](https://github.com/MetaMask/metamask-extension/pull/7896): Use eth-contract-metadata@1.12.0
 
 ## 7.7.2 Fri Jan 10 2020
 - [#7753](https://github.com/MetaMask/metamask-extension/pull/7753): Fix gas estimate for tokens
